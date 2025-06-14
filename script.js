@@ -1,0 +1,1 @@
+console.log("Bright Future Academy - Pro Website Loaded!");
